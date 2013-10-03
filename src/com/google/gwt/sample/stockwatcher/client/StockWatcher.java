@@ -41,6 +41,7 @@ public class StockWatcher implements EntryPoint {
   private VerticalPanel loginPanel = new VerticalPanel();
   private Label loginLabel = new Label("Please sign in to your Google Account to access the StockWatcher application.");
   private Anchor signInLink = new Anchor("Sign In");
+  private Label newLabel = new Label();
 
   /**
    * Entry point method.
