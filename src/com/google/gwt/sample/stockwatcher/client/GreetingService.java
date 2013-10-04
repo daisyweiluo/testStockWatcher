@@ -4,10 +4,11 @@ import com.google.gwt.user.client.rpc.RemoteService;
 import com.google.gwt.user.client.rpc.RemoteServiceRelativePath;
 // test
 
-// daisy luo
+// daisy luo ++ hello
 //asdf
 
 //test 2
+// now, it is sunny's turn
 /**
  * The client side stub for the RPC service.
  */
